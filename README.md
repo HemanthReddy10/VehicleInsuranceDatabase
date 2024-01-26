@@ -4,6 +4,11 @@
 Tools and Technologies Used:
 SQL,Python, MS Excel, Tableau,Azure Data Studio,MongoDB
 
+• Developed a resilient vehicle insurance policy management system, employing an Entity-Relationship (ER) model to enhance database visualization and structure.
+• Enhanced data operations through the creation of views, stored procedures, and user-defined functions, resulting in streamlined retrieval and manipulation processes.
+• Automated database actions and ensured data integrity by implementing database triggers, thereby improving efficiency.
+• Utilized Tableau and Excel for dynamic data visualization, providing data-driven insights for informed decision-making in various business scenarios
+
 The objective of the vehicle insurance policy management system is to retrieve information regarding the accident, damage and help customers regarding the policy and claim their deserved compensation from their opted insurance companies and another objective of this project is to help the customer stay up to date with their policy information and be assured of their accessibility and rights. It also serves as a one-stop solution so customers or especially the victims in distress don’t have to reach out to multiple avenues of authority to claim their insurance amount.
 
 
